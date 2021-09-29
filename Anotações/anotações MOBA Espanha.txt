@@ -1,0 +1,80 @@
+Cabo 4x1mm
+
+
+Painel
+    Conexões
+        cima para baixo 
+        Antenas GSM
+        Antena GPS
+
+    
+
+
+buracos Módulo IDC 
+
+    1 antena 1 
+    2 antena 2 
+    3 cabo da cabine 
+
+    4 botoneira 
+    5 caixa de led 
+
+    6 sensor registro
+
+Prestar atenção para montagem do sensor do tambor lixo 
+    GAP 4-5mm máx 6-7mm
+
+Porcas Cravadas
+
+Antenas RFID Atenção para questão de porcas 
+
+dois de cimas são positivos vermelho
+cabo cabine 
+    vermelho positivo cima
+    castanho Massa negativo
+    rosa positivo linha cima
+    cinzento negativo linha cima
+
+
+cabo 7 pinos 
+
+botoneira
+    1 corrente
+    2 massa 
+    3 auta cam  rosa 
+    4 baixa cam cinczento
+
+    dois de cima positvo 
+    dois de baixo negativo
+    3 priemrio cima 
+    meio 4 
+    verificar existência resistencia 
+
+antena 1 Out1  2 Out 2 
+´Caixa de led
+led par acima 
+
+sensores 
+    Caso 2 trocar a borrachinha para de duas entradas
+    PNP
+    NPN
+    booneira npn para fazer registro no imput 5 
+    quando se manda a programação vai para negativo 
+    para veiculos com botoneira
+
+idc sensore PNP
+Ligaºão sensores
+    azul negativo 
+    preto comando vai no i1
+    castanho positivo
+
+jumpeamento 
+corrente no i5 e no i6
+
+antena do lado direito é a primeira antena 
+
+
+atribuir novos  atributos
+Links de atribuição e status  lado direito superior
+
+quando há registro botoneirafica azul 
